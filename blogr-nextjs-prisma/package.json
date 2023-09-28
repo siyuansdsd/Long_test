@@ -2,6 +2,9 @@
   "name": "hello-next",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">16.14.0 <17"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
